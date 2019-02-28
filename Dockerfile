@@ -1,5 +1,7 @@
 FROM svls/serverless:1.24.1
 
+USER root
+
 LABEL version="1.0.0"
 LABEL repository="http://github.com/VirtueMe/sls-test"
 LABEL homepage="http://github.com/VirtueMe/sls-test"
