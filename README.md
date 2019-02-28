@@ -1,2 +1,2 @@
 # sls-test
-Github action for testing serverless configuration
+Github action for serverless offline test configuration
