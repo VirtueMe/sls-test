@@ -7,7 +7,7 @@ LABEL maintainer="Benny Thomas <benny.thomas+actions@speilbildet.com>"
 
 LABEL com.github.actions.name="GitHub Action for serverless offline testing"
 LABEL com.github.actions.description="Wraps the npm cli to enable serverless offline testing."
-LABEL com.github.actions.icon="package"
+LABEL com.github.actions.icon="menu"
 LABEL com.github.actions.color="red"
 COPY LICENSE README.md /
 
